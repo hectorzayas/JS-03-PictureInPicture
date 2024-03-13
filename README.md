@@ -1,5 +1,7 @@
 # Picture In Picture Enhanced Documentation
 
+![](https://github.com/hectorzayas/JS-03-PictureInPicture/blob/master/PictureInPicture-min.gif)
+
 ## Overview
 The **Picture In Picture** project leverages the Screen Capture API, specifically utilizing its `getDisplayMedia()` function, to facilitate the capture of either a portion or the entirety of a screen. This capability is crucial for functionalities such as streaming, recording, or sharing screen content. The captured content can then be displayed in a versatile Picture In Picture (PiP) window, which users can conveniently position anywhere on their screen. This initiative extends the foundational principles explored in the [javascript20-projects](https://github.com/zero-to-mastery/javascript20-projects) series.
 
