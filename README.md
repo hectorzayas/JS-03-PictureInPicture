@@ -11,9 +11,9 @@ The **Picture In Picture** project leverages the Screen Capture API, specificall
 - **Screen Capture API Utilization**: Empowers users to stream their recording sessions on the web application, enabling the creation of a dynamic Picture In Picture (PiP) display.
 
 ## Employed Tools
-- **Screen Capture API**: Facilitates the capture of screen content. For more information, refer to the [official documentation](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture).
-- **CSS Only Shimmer Button**: Enhances user interface aesthetics with a custom-designed shimmer effect. Discover how to implement it [here](https://www.buttons.cool/button/gOqNxRa).
-- **Google Fonts**: Provides a vast selection of fonts to improve web typography. Explore font options at [Google Fonts](https://fonts.google.com/).
+- **Screen Capture API**: [official documentation](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture).
+- **CSS Only Shimmer Button**: [CSS Button](https://www.buttons.cool/button/gOqNxRa).
+- **Google Fonts**: [Google Fonts](https://fonts.google.com/).
 
 ## Implementation Insights
 
